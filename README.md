@@ -9,9 +9,9 @@
 Repositori ini berfungsi untuk menyimpan Tugas Implementasi Expert System dengan Tema Sistem Pakar Pemilihan Jurusan Kuliah Berbasis Minat dan Kemampuan menggunakan software CLIPS. Expert System ini menerima input berupa tingkat kemampuan siswa dalam sejumlah mata pelajaran eksakta dan humaniora, lalu memberikan rekomendasi jurusan kuliah yang sesuai.
 
 ## Struktur File
-- `assignment.clp` - File utama yang berisi aturan dan logika sistem pakar dalam CLIPS.
-- `r.pdf` - Laporan yang menjelaskan implementasi sistem pakar.
-- `README.md` - File ini, yang berisi informasi dasar tentang proyek.
+- `assignment.clp` 
+- `Laporan Tugas Implementasi Expert System_520563_Fahmi Irfan Faiz.pdf` 
+- `README.md` 
 
 ## Cara Menjalankan
 1. Pastikan CLIPS sudah terinstal di sistem anda.
@@ -25,4 +25,4 @@ Repositori ini berfungsi untuk menyimpan Tugas Implementasi Expert System dengan
    (reset)
    (run)
    ```
-5. Ikuti instruksi untuk memasukkan data minat dan kemampuan anda, lalu lihat rekomendasi jurusan yang sesuai untuk anda.
+5. Ikuti instruksi untuk memasukkan data minat dan kemampuan anda yang sesuai dengan tingkat minat dan kemampuan anda, lalu lihat rekomendasi jurusan yang sesuai untuk anda.
