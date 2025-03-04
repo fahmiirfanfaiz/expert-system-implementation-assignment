@@ -6,7 +6,7 @@
 - **Kelas:** B  
 
 ## Deskripsi
-Repositori Github ini digunakan untuk menyimpan Tugas Kuliah Implementasi Expert System dengan Tema Sistem Pakar Pemilihan Jurusan Kuliah Berbasis Minat dan Kemampuan menggunakan software CLIPS. Expert System ini bekerja dengan cara menerima input dari pengguna berupa tingkat minat dan kemampuan siswa dalam berbagai mata pelajaran eksakta dan humaniora, lalu memberikan rekomendasi jurusan kuliah yang sesuai.
+Repositori Github ini digunakan untuk menyimpan Tugas Mata Kuliah Kecerdasan Buatan Implementasi Expert System dengan Tema Sistem Pakar Pemilihan Jurusan Kuliah Berbasis Minat dan Kemampuan menggunakan software CLIPS. Expert System ini bekerja dengan cara menerima input dari pengguna berupa tingkat minat dan kemampuan siswa dalam berbagai mata pelajaran eksakta dan humaniora, lalu memberikan rekomendasi jurusan kuliah yang sesuai.
 
 ## Struktur File
 - `assignment.clp` 
