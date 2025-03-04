@@ -25,4 +25,4 @@ Repositori Github ini digunakan untuk menyimpan Tugas Mata Kuliah Kecerdasan Bua
    (reset)
    (run)
    ```
-5. Ikuti instruksi untuk memasukkan data minat dan kemampuan anda yang sesuai dengan tingkatan anda, lalu lihat rekomendasi jurusan yang sesuai untuk anda.
+5. Ikuti instruksi untuk memasukkan data tingkat minat dan kemampuan anda, lalu lihat rekomendasi jurusan yang sesuai untuk anda.
